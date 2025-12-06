@@ -1,5 +1,7 @@
 from flask import Flask, render_template
 
+from my_form import MyForm
+
 '''
 Red underlines? Install the required packages first: 
 Open the Terminal in PyCharm (bottom left). 
@@ -15,11 +17,18 @@ This will install the packages from requirements.txt for this project.
 
 
 app = Flask(__name__)
+app.secret_key = "mysecretkey3127"
 
 
 @app.route("/")
 def home():
     return render_template('index.html')
+
+@app.route("/login")
+def login():
+    form = MyForm()
+    print(form.email.label)
+    return render_template('login.html', form=form)
 
 
 if __name__ == '__main__':
