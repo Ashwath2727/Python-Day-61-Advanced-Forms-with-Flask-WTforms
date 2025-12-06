@@ -37,7 +37,7 @@ def login():
             return render_template("success.html")
         else:
             return render_template("denied.html")
-    return render_template('login.html', form=form)
+    return render_template('bootstrap_flask_login.html', form=form)
 
 
 if __name__ == '__main__':

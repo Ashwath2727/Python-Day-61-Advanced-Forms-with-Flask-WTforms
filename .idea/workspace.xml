@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c31fb1fe-49b2-44d5-86e8-336758cac290" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap_flask_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bootstrap_flask_login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/denied.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/denied.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/success.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/success.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap_flask_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap_flask_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +44,12 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Ashwath/Learning/python/Day 61 Advanced Forms with Flask WTForms"
+    "last_opened_file_path": "C:/Users/Ashwath/Learning/python/Day 61 Advanced Forms with Flask WTForms/templates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ashwath\Learning\python\Day 61 Advanced Forms with Flask WTForms\templates" />
       <recent name="C:\Users\Ashwath\Learning\python\Day 61 Advanced Forms with Flask WTForms" />
     </key>
   </component>
